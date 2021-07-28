@@ -24,6 +24,10 @@ body{
 .text-color-blue{
     color: #363958;
 }
+.margin{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
 /* banner design end  */
 
 /* buttons design start */
